@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics.ProductPlugin", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics.Product", "Logistics.Product\Logistics.Product.csproj", "{69615670-6BAB-48D9-A7FD-D8E80BCB4B48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics.Customizations", "Logistics.Customizations\Logistics.Customizations.csproj", "{9B49C65A-C853-499C-8A8A-0D8F351631E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{367D5FEE-F805-44B3-BAC1-7DD78F9EFD54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,10 @@ Global
 		{69615670-6BAB-48D9-A7FD-D8E80BCB4B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69615670-6BAB-48D9-A7FD-D8E80BCB4B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69615670-6BAB-48D9-A7FD-D8E80BCB4B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B49C65A-C853-499C-8A8A-0D8F351631E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B49C65A-C853-499C-8A8A-0D8F351631E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B49C65A-C853-499C-8A8A-0D8F351631E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B49C65A-C853-499C-8A8A-0D8F351631E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
