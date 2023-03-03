@@ -2,7 +2,7 @@
 using Microsoft.Xrm.Sdk.Workflow;
 using System.Activities;
 
-namespace Logistics.ProductPlugin.LogisticsCore
+namespace Logistics.AccountPlugins.LogisticsCore
 {
     public abstract class ActionCore : CodeActivity
     {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.Xrm.Sdk;
 using System;
 
-namespace Logistics.ProductPlugin.LogisticsCore
+namespace Logistics.AccountPlugins.LogisticsCore
 {
     public abstract class PluginCore : IPlugin
     {

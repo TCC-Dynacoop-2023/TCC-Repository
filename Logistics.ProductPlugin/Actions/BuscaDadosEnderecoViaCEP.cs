@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 using RestSharp;
 using System.Activities;
 
-namespace Logistics.ProductPlugin.Actions
+namespace Logistics.AccountPlugins.Actions
 {
     public class BuscaDadosEnderecoViaCEP : ActionCore
     {

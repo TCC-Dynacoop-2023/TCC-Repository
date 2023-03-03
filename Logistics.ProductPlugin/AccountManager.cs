@@ -1,9 +1,9 @@
-﻿using Logistics.ProductPlugin.LogisticsCore;
+﻿using Logistics.AccountPlugins.LogisticsCore;
 using System;
 
-namespace Logistics.ProductPlugin
+namespace Logistics.AccountPlugins
 {
-    public class ProductManager : PluginCore
+    public class AccountManager : PluginCore
     {
         public override void ExecutePlugin(IServiceProvider serviceProvider)
         {

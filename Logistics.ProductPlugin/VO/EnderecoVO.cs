@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Logistics.ProductPlugin.VO
+namespace Logistics.AccountPlugins.VO
 {
     public class EnderecoVO
     {

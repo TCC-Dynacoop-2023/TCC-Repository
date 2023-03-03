@@ -148,7 +148,7 @@
     <Compile Include="Actions\BuscaDadosEnderecoViaCEP.cs" />
     <Compile Include="LogisticsCore\ActionCore.cs" />
     <Compile Include="LogisticsCore\PluginCore.cs" />
-    <Compile Include="ProductManager.cs" />
+    <Compile Include="AccountManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VO\EnderecoVO.cs" />
   </ItemGroup>
