@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Logistics.Customizations",
+    "\\Logistics.Customizations\\JS",
+    "\\Logistics.ProductPlugin",
+    "\\Logistics.ProductPlugin\\Actions",
+    "\\packages"
   ],
-  "SelectedNode": "\\C:\\Users\\Tiago Vazzoller\\Source\\Repos\\TCC-Repository",
+  "SelectedNode": "\\Logistics.ProductPlugin\\Actions\\BuscaDadosEnderecoViaCEP.cs",
   "PreviewInSolutionExplorer": false
 }
