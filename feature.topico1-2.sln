@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics.Product.Environme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics.Product.Environment2", "Logistics.Product.Ambiente2\Logistics.Product.Environment2.csproj", "{CE688356-34EF-45FA-9F39-8F3323928529}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Logistics.Product.SharedProject1", "Logistics.Product.SharedProject1\Logistics.Product.SharedProject1.shproj", "{134825AC-B9AD-4ABA-83AC-AD5330F7B474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{85556005-26F4-4591-A0F9-FC352C79091B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,11 +25,18 @@ Global
 		{CE688356-34EF-45FA-9F39-8F3323928529}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE688356-34EF-45FA-9F39-8F3323928529}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE688356-34EF-45FA-9F39-8F3323928529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85556005-26F4-4591-A0F9-FC352C79091B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85556005-26F4-4591-A0F9-FC352C79091B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85556005-26F4-4591-A0F9-FC352C79091B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85556005-26F4-4591-A0F9-FC352C79091B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {67E1E3F0-CF22-4BFE-9A08-611F266655F6}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Logistics.Product.SharedProject1\Logistics.Product.SharedProject1.projitems*{134825ac-b9ad-4aba-83ac-ad5330f7b474}*SharedItemsImports = 13
 	EndGlobalSection
 EndGlobal

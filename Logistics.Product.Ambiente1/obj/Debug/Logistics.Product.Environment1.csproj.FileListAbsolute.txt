@@ -1,6 +1,3 @@
-E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\bin\Debug\Logistics.Product.Ambiente1.dll.config
-E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\bin\Debug\Logistics.Product.Ambiente1.dll
-E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\bin\Debug\Logistics.Product.Ambiente1.pdb
 E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
 E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
@@ -39,5 +36,8 @@ E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\bin\De
 E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\obj\Debug\Logistics.Product.Environment1.csproj.AssemblyReference.cache
 E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\obj\Debug\Logistics.Product.Environment1.csproj.CoreCompileInputs.cache
 E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\obj\Debug\Logistics.Product.Environment1.csproj.CopyComplete
-E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\obj\Debug\Logistics.Product.Ambiente1.dll
-E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\obj\Debug\Logistics.Product.Ambiente1.pdb
+E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\bin\Debug\Logistics.Product.Environment1.dll.config
+E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\bin\Debug\Logistics.Product.Environment1.dll
+E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\bin\Debug\Logistics.Product.Environment1.pdb
+E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\obj\Debug\Logistics.Product.Environment1.dll
+E:\VisualStudio\Repositorio\feature.topico1-2\Logistics.Product.Ambiente1\obj\Debug\Logistics.Product.Environment1.pdb

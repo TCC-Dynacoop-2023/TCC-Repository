@@ -15,7 +15,7 @@ namespace Logistics.Product.Environment1.Plugins
         public override void ExecutePlugin(IServiceProvider serviceProvider)
         {
             Entity product = (Entity)Context.InputParameters["Target"];
-            product["dytcc_integrarproduto"] = true;
+            product.Attributes["lgt_integrarproduto"] = true;
             IOrganizationService serviceCliente = Conector.organizationService();
             serviceCliente.Create(product);
 
