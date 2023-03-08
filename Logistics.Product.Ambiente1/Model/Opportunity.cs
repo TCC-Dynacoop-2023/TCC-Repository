@@ -21,18 +21,6 @@ namespace Logistics.Product.Environment1.Model
             this.logicalName = "opportunity";
         }
 
-        //public string SetPattern()
-        //{
-            
-        //    this.pattern = GeneratePattern();
-        //    Entity retorno = ComparePattern(this.pattern);
-        //    while (retorno != null)
-        //    {
-        //        return pattern;
-        //    }
-            
-        //}
-
         public string GeneratePattern()
         {
 
@@ -46,7 +34,6 @@ namespace Logistics.Product.Environment1.Model
             // Gerando um numeros inteiro
             number[1] = random.Next(1, 10);
             number[2] = random.Next(1, 10);
-
 
             // Gera a primeira letra aleatória
             char letter1 = letters[random.Next(letters.Length)];
